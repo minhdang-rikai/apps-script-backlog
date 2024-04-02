@@ -1,10 +1,3 @@
-var baseApiUrl = "https://rikai.backlog.com/api/v2"
-var apiKey = "YFSVss6ObEPNaudqRQr6BL0RxjEdeX4GoPhjtikQPFZvYfhKxq4bhDu1HS9yaEPo";
-var projectId = 129818;
-var priorityId = 2; // High
-var sheetId = '1RO2fbyhqMYw1FoIB-D1fC3DbJKxZ0H3puTkLBoWTU10'
-var sheetName = 'WBS(Tracking VN)'
-
 function onOpen() {
   var ui = SpreadsheetApp.getUi();
 
